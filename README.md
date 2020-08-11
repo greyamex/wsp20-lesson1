@@ -1,5 +1,5 @@
 # WSP Lesson
-Web server class project to familiarize with HTML and CSS.
+Web server class project to familiarize with HTML, CSS, and JavaScript.
 <br/><br/>
 
 ## Dev Setup
