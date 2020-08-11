@@ -19,9 +19,3 @@ $flutter serve --only functions,hosting
 
 3. Open browser window and go to url: ```localhost/5001```
 <br/>
-
-## Built With
-
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Language
-* [Node.js](https://nodejs.org/en/docs/) - Framework
-<br/>
